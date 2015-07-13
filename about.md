@@ -7,11 +7,12 @@ title: About "No Offense"
 
 Except the fact that I have an opinion on everything. That new movie that came out. That old Eminem album *Slim Shady LP* (which by the way, is one of my favorite albums of all time). The Apple Watch. Post avant jazzcore. Toothpaste. You name it.
 
-If you're going to read this blog, you should definitely consider the following <span style="color: red; text-decoration: underline; text-transform: capitalize;">trigger warning:</span>
+If you're going to read this blog, you should definitely consider the following <span style="color: red; text-decoration: underline">TRIGGER WARNING:</span>
 
 <div class="message" style="text-align: center;">
+  <h1>TRIGGER WARNING:</h1>
   <p>THE CONTENT ON THIS BLOG IS CONSIDERED BY MANY OF THE WRITER'S FRIENDS TO BE:</p>
-  <ul>
+  <ul style="text-align: left;">
     <li>FULL OF SWEAR WORDS</li>
     <li>FUCKED UP</li>
     <li>OFFENSIVE AS HELL</li>
