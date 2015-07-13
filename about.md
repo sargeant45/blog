@@ -10,7 +10,7 @@ Except the fact that I have an opinion on everything. That new movie that came o
 If you're going to read this blog, you should definitely consider the following <span style="color: red; text-decoration: underline">TRIGGER WARNING:</span>
 
 <div class="message" style="text-align: center;">
-  <h1>TRIGGER WARNING:</h1>
+  <h1 style="color: red; text-decoration: underline;">TRIGGER WARNING:</h1>
   <p>THE CONTENT ON THIS BLOG IS CONSIDERED BY MANY OF THE WRITER'S FRIENDS TO BE:</p>
   <ul style="text-align: left;">
     <li>FULL OF SWEAR WORDS</li>
