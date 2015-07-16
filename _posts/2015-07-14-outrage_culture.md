@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outrage Culture (a.k.a. "let's stop being a whiny bitch about everything for no reason")
+title: Outrage Culture
 ---
 
 "Outrage culture" is a term used to describe the Internet phenomena that is people getting offended about everything just for the sake of being offended or stirring up controversy/attention. For example, [Gamergate](http://www.wikiwand.com/en/Gamergate_controversy), [Shirtstorm](http://knowyourmeme.com/memes/events/shirtstorm),  and anything from a famous playwright saying that Shakespeare sucks to not being able to play as a female (or, rarely, as a male) in "x" video game.
