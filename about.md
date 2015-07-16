@@ -1,30 +1,29 @@
 ---
 layout: page
-title: About
+title: About "No Offense"
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+"No Offense" is an attempt at being able to express my feelings to people other than my friends. Because at some point, my friends get really fucking tired of hearing my rants and raves bidaily. I'm Ethan Arterberry. I'm a [coder](https://github.com/sargeant45). I used to make videos. I used to experiment with some mixing of musics. I like the Internet. If you've seen my [website](http://ethanarterberry.com) then you basically know all there is to know about me.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Except the fact that I have an opinion on everything. That new movie that came out. That old Eminem album *Slim Shady LP* (which by the way, is one of my favorite albums of all time). The Apple Watch. Post avant jazzcore. Toothpaste. You name it.
 
-There are currently two themes built on Poole:
+If you're going to read this blog, you should definitely consider the following <span style="color: red; text-decoration: underline">TRIGGER WARNING:</span>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<div class="message" style="text-align: center;">
+  <h1 style="color: red; text-decoration: underline;">TRIGGER WARNING:</h1>
+  <p>THE CONTENT ON THIS BLOG IS CONSIDERED BY MANY OF THE WRITER'S FRIENDS TO BE:</p>
+  <ul style="text-align: left;">
+    <li>FULL OF SWEAR WORDS</li>
+    <li>FUCKED UP</li>
+    <li>OFFENSIVE AS HELL</li>
+    <li>SUPPORTIVE OF <u title="EVERYONE GETS SHIT, OR NOBODY DOES">PREJUDICE EQUALITY</u>&trade;</li>
+    <li>SATIRICAL</li>
+    <li>ABSOLUTE GARBAGE</li>
+    <li>FUNNY AS HELL AND TOTALLY AWESOME IF YOU AREN'T AN AVID USER OF TUMBLR</li>
+    <li>SJW ANTI-PROPOGANDA</li>
+    <li>WRITTEN BY A CIS, WHITE, PRIVILEGED AMERICAN MALE</li>
+  </ul>
+  YOU HAVE BEEN WARNED.
+</div>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Now that that's out of the way, let's get started.

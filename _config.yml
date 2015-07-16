@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               no offense
 tagline:             'a blog by Ethan Arterberry'
 description:         'Based on <a href="http://lanyon.getpoole.com">Lanyon</a>, a <a href="http://jekyllrb.com">Jeykll</a> theme by <a href="https://twitter.com/mdo">Mark Otto</a>. All of the opinions on this blog should be taken with a grain of salt, after all, I am a cis, white, privileged, straight American male who just needs to shut the fuck up.'
-url:                 http://ethanarterberry.com/blog/
-baseurl:             ''
+url:                 http://ethanarterberry.com/blog
+baseurl:             'http://ethanarterberry.com/blog'
 paginate:            5
 
 # About/contact
@@ -20,3 +20,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+github:
+  repo: "https://github.com/sargeant45/blog"
